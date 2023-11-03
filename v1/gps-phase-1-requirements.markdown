@@ -9,16 +9,16 @@ Bassil Younes (N01572641)
 
 ### Project Name (and version)
 
-Lego City GPS  
+Lego City GPS v1   
 
 ### Technology Stack
 
-Python  
-Frontend  
-- REACT  
-Backend  
-- Node
-- SQL for the database
+- Python  
+- Frontend  
+    - REACT  
+- Backend  
+    - Node
+    - SQL for the database
 
 ### Project Purpose
 
@@ -43,13 +43,23 @@ The BrickMMO GPS is a web-based application that allows users to track the locat
 ### Narrative Description
 
 **Viewing the live map of multiple cars (non-admin users)**  
-- User will search and open the GPS brickmmo website [gps.brickmmo.com](https://gps.brickmmo.com/)  
+- User will search and open the GPS brickmmo website [(gps.brickmmo.com)](https://gps.brickmmo.com/)  
     - The frontend will be deployed using this domain
 - User will see a digital 2d map of the Lego city with up to 7 cars on it
- This frontend will be built with REACT
- The user will see the cars move in real time
- Data will be retrieved from an SQL database using Node and
-outputted onto the REACT frontend
+    - This frontend will be built with REACT
+- The user will see the cars move in real time
+    - Data will be retrieved from an SQL database using Node and outputted onto the REACT frontend
+
+**Viewing the history of car locations (non-admin users)**
+- User will click on one of the cars that is displayed on the map  
+    - They will be taken to another screen showing the same map with only the selected car visible
+- The user will use a slider to see the past locations that the car has been in the city
+    - The locations will be retrieved from historical data saved in
+the SQL database
+
+**Admin Access Features**
+- Add cars to the city GPS application
+- Delete cars from the city GPS application
 
 ### User Stories
 - A user will visit the Brickmmo GPS website
@@ -60,15 +70,6 @@ outputted onto the REACT frontend
 
 See Excel Document with Tables
 
-#### Table Name
-
-| Field | Type |
-| - | - |
-| id | int |
-| foreign_id | int |
-| word | varchar |
-| text | text |
-
 ### Dataflow Diagrams
 
 ![Figure 1](../images/v1-requirements-fig1.png)
@@ -76,15 +77,13 @@ See Excel Document with Tables
 
 ### Wireframes
 
-![Frontend User Wireframe](../images/v1-requirements-user-frontend-wireframe.png)
-![Frontend User Login Wireframe](../images/v1-requirements-user-login-frontend-wireframe.png)
+![Frontend User Wireframe](../images/v1-requirements-user-frontend-wireframe.png)  
+![Frontend User Login Wireframe](../images/v1-requirements-user-login-frontend-wireframe.png)  
 ![Frontend Admin Wireframe](../images/v1-requirements-admin-frontend-wireframe.png)
 
-### Project Timeline (see provided document)
+### Project Timeline
 
-This document breaks down your plan on a weekly basis. What is your plan for execution across a timeline? Seven weeks is not a lot of time - make sure there is room for deployment and testing!
-
-[&#10132; Back to Version 1](/template-about-markdown/v1)
+[&#10132; Back to Version 1](../gps-about/v1)
 
 ---
 
