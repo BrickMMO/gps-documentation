@@ -16,7 +16,7 @@ The end result will allow for a data visualization app using the LEGO^TM map and
 
 The end result will be instructions to create something similar to the [LEGO™ World Map](https://www.lego.com/en-us/product/world-map-31203):
 
-![Sample Map](../images/v1-map.png)
+![Sample Map](../images/map-location-image.png)
 
 ### Front-End
 
