@@ -8,7 +8,7 @@ This is a brief description of what was completed during version one.
 
 ### Related Links
 
-- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/gps-about)
+- [GitHub Repo](https://github.com/BrickMMO/gps-about)
 
 ### Documents
 
@@ -22,6 +22,8 @@ This is a brief description of what was completed during version one.
 |                                       | Name        | Type    | GitHub                                                |
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+| ![byounes123321](students/byounes123321) | Bassil Younes | Student | [https://contributions.brickmmo.com/students/byounes123321](https://contributions.brickmmo.com/students/byounes123321) |
+| ![ellischang97](students/ellischang97) | Ellis Chang | Student | [https://contributions.brickmmo.com/students/ellischang97](https://github.com/BrickMMO/contributions/students/ellischang97)
 
 [&#10132; Back to About](/template-about-markdown/)
 
