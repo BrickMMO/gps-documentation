@@ -4,7 +4,7 @@
 
 Completed: June 2023
 
-This is a brief description of what was completed during version one.
+This application will use the Pixy2 AI camera to track coordinates of seven LEGO^TM robots.
 
 ## Related Links
 
