@@ -1,22 +1,28 @@
-# template-about-markdown
+
+# gps-about
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This is a template for `system-about` websites.
+GPS is a system that is utilized in Brickmmo  
 
-![BrickMMO](images/brickmmo.png)
+![BrickMMO](images/map-location-image.png)
 
-This part of the `index.markdown` page should include a brief description of this system and links to the current frontend and backend.
+This application will use the Pixy2 AI camera to track coordinates of seven LEGO^TM robots.
 
-- [System Frontend](https://brickmmo.com)
-- [System Backend](https://brickmmo.com)
+The end result will allow for a data visualization app using the LEGO^TM map and locations of robots
 
-## [Version 1 - Initial Production](v1)
+The end result will be instructions to create something similar to the LEGO™ World Map:
 
-## [Version 2 - Merge with Central Console](v2)
+- [System Frontend](https://gps.brickmmo.com)
+- [System Backend](https://github.com/BrickMMO/gps-hub-v1)
+
+## [Version 1 - Initial Production](./v1.markdown)
+
+
 
 ---
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
+
