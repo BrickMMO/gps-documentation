@@ -2,23 +2,23 @@
 
 ## Version 1 - Initial Production
 
-Completed: December 2022
 
-This is a brief description of what was completed during version one.
+Completed: June 2023
 
-![Version 1 City](images/v1-city.jpg)
+This application will use the Pixy2 AI camera to track coordinates of seven LEGO^TM robots.
 
-### Related Links
+## Related Links
 
-- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [BrickMMO Flow](https://flow.brickmmo.com)
+- [Version 1 GitHub Repo](https://github.com/BrickMMO/gps-v1)
+- [Tasks GitHub Repo](https://github.com/BrickMMO/tasks)
 
 ### Documents
 
-- [Pitch (Markdown)](v1/system-v1-pitch)
-- [Pitch (PDF)](v1/system-v1-pitch.pdf)
-- [Requirements Document (Markdown)](v1/system-v1-requirements)
-- [Requirements Document (PDF)](v1/system-v1-requirements.pdf)
+- [Pitch (Markdown)](v1/gps-v1-pitch)
+- [Pitch (PDF)](v1/gps-v1-pitch.pdf)
+- [Requirements Document (Markdown)](v1/gps-v1-requirements)
+- [Requirements Document (PDF)](v1/gps-v1-requirements.pdf)
 
 ### Contributors
 
@@ -26,7 +26,10 @@ This is a brief description of what was completed during version one.
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 
-[&#10132; Back to About](/template-about-markdown/)
+| ![byounes123321](students/byounes123321.png) | Bassil Younes | Student | [https://contributions.brickmmo.com/students/byounes123321](https://contributions.brickmmo.com/students/byounes123321) |
+| ![ellischang97](students/ellischang97.png) | Ellis Chang | Student | [https://contributions.brickmmo.com/students/ellischang97](https://github.com/BrickMMO/contributions/students/ellischang97)
+
+[&#10132; Back to About](/gps-about/)
 
 ---
 
