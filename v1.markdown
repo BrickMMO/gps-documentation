@@ -22,9 +22,9 @@ This application will use the Pixy2 AI camera to track coordinates of seven LEGO
 
 ### Contributors
 
-|                                       | Name        | Type    | GitHub                                                |
-| ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
-| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+| | Name | Type | Contributions |
+| - | - | - | - |
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 
 | ![byounes123321](students/byounes123321.png) | Bassil Younes | Student | [https://contributions.brickmmo.com/students/byounes123321](https://contributions.brickmmo.com/students/byounes123321) |
 | ![ellischang97](students/ellischang97.png) | Ellis Chang | Student | [https://contributions.brickmmo.com/students/ellischang97](https://github.com/BrickMMO/contributions/students/ellischang97)
